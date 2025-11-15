@@ -1,4 +1,4 @@
-👋 Weclome to my GitHub page, I'm Sal
+👋 Welcome to my GitHub page! I’m Sal.
   
 Driving automation and reliability in production by day 🔧 , experimenting with indie games by night 🎮 .
 
